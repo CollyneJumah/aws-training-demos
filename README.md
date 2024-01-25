@@ -1,0 +1,2 @@
+## AWS DEMOS
+> Trying to find simple yet sophisticated demos on AWS services ? The repository provides you with demos related to AWS services in real-world scenarios, from hosting simple static sites on S3 buckets, Building a continuous integration pipelines, writing your own CloudFormation teplate to building event-driven architectures.

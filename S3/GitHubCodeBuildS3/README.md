@@ -1,5 +1,5 @@
 ## AWS Continuous Deployment pipeline from GitHub to S3.
-> In this demo, how to host your website code in GitHub, create a pipeline that will pull that code everytime you make a change and deploy it out to an S3 bucket.
+> This demo shows how to host your website code in GitHub, create a pipeline that will pull that code everytime you make a change and deploy it out to an S3 bucket.
 ## Stages
 1. Source
 > This is where the code will be committed.
