@@ -9,3 +9,12 @@
 > Deploy your code to S3 bucket
 
 ![image](images/AWSDEMO-GitHub-CodePipeline-S3.png)
+
+## Steps:
+1. Create your Application and store in a GitHub reposiroty
+2. Create your S3 bucket. `S3 bucket can be used to host static website`
+- Enable public accessible bucket
+- Add bucket policy to all everybody to read all files in a bucket.
+- Enable static website hosting.
+3. Setup Codepipeline 
+> The pipeline will orchestrate getting the code from GitHub to the bucket.
